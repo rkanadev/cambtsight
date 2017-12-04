@@ -1,0 +1,2 @@
+# cambtsight
+Insight for CambtCoin
